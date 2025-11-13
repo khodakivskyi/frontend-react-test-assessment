@@ -94,22 +94,20 @@ import { Input } from './components/Input';
 #### Screenshots
 
 **Default state:**
-<!-- Insert screenshot here -->
+<img width="305" height="116" alt="image" src="https://github.com/user-attachments/assets/f22cfeae-8c3b-47ba-b031-c54de3eed61b" />
 
-**Focus state:**
-<!-- Insert screenshot here -->
-
-**Hover state:**
-<!-- Insert screenshot here -->
+**Hover and Focus state:**
+<img width="336" height="124" alt="image" src="https://github.com/user-attachments/assets/cf46de4f-3bb1-4920-8092-16050ac0c4e0" />
 
 **Filled with clear button:**
-<!-- Insert screenshot here -->
+<img width="396" height="110" alt="image" src="https://github.com/user-attachments/assets/10081605-0682-4858-b001-40148cd8089c" />
 
 **Password with visibility toggle:**
-<!-- Insert screenshot here -->
+<img width="369" height="103" alt="image" src="https://github.com/user-attachments/assets/d7276c50-1853-4335-bc41-57fc5aec1b6a" />
+<img width="367" height="103" alt="image" src="https://github.com/user-attachments/assets/a2c4acd6-bbdf-4d6b-843b-89b5c1d6cf73" />
 
 **Disabled state:**
-<!-- Insert screenshot here -->
+<img width="306" height="105" alt="image" src="https://github.com/user-attachments/assets/51f113f6-9ba9-4142-a704-109c5b5f392f" />
 
 ---
 
@@ -159,22 +157,19 @@ import { Toast } from './components/Toast';
 #### Screenshots
 
 **Success toast:**
-<!-- Insert screenshot here -->
+<img width="508" height="138" alt="image" src="https://github.com/user-attachments/assets/ce915d39-eb9c-4e43-90e1-56956e4663e1" />
 
 **Error toast:**
-<!-- Insert screenshot here -->
+<img width="505" height="117" alt="image" src="https://github.com/user-attachments/assets/fdb267ad-f146-4458-902b-631f5cb424a8" />
 
 **Warning toast:**
-<!-- Insert screenshot here -->
+<img width="492" height="117" alt="image" src="https://github.com/user-attachments/assets/1229cc1d-a654-423f-8021-7238a71d6e1b" />
 
 **Info toast:**
-<!-- Insert screenshot here -->
+<img width="498" height="120" alt="image" src="https://github.com/user-attachments/assets/e23ed42a-55c2-4dc0-97c8-30c6d73d66da" />
 
 **Toast with close button:**
-<!-- Insert screenshot here -->
-
-**Entrance animation:**
-<!-- Insert screenshot or GIF here -->
+<img width="496" height="131" alt="image" src="https://github.com/user-attachments/assets/03b9e921-cf02-404b-83ef-1b22abf6f05e" />
 
 ---
 
@@ -241,26 +236,18 @@ const menuItems = [
 
 #### Screenshots
 
-**Closed menu:**
-<!-- Insert screenshot here -->
-
-**Open menu:**
-<!-- Insert screenshot here -->
+**Open one level menu:**
+<img width="665" height="880" alt="image" src="https://github.com/user-attachments/assets/a640270f-0748-4bb5-8f03-80f81328e517" />
 
 **Item hover:**
-<!-- Insert screenshot here -->
+<img width="578" height="675" alt="image" src="https://github.com/user-attachments/assets/94f0ba81-01e6-40d7-9d15-2bed8b9c719d" />
 
-**Expanded nested menu:**
-<!-- Insert screenshot here -->
+**Two level menu:**
+<img width="544" height="828" alt="image" src="https://github.com/user-attachments/assets/5ace0939-295e-429f-8f82-a27f9e6fa243" />
 
-**Multi-level nested menu:**
-<!-- Insert screenshot here -->
+**Mobile version:**
+<img width="371" height="717" alt="image" src="https://github.com/user-attachments/assets/bb96d77f-54d7-4ba6-80ae-4a20b07fc0c2" />
 
-**Menu with backdrop:**
-<!-- Insert screenshot here -->
-
-**Mobile version (full width):**
-<!-- Insert screenshot here -->
 ---
 
 ## Design System
