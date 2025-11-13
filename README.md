@@ -13,7 +13,7 @@ A modern React component library with dark theme, built with TypeScript and Vite
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/khodakivskyi/frontend-react-test-assessment
 cd tt
 ```
 
